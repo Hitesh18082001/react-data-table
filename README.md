@@ -78,3 +78,17 @@ Responsive data table
 
 <img width="1440" alt="Screenshot 2024-04-16 at 9 34 32 AM" src="https://github.com/Hitesh18082001/react-data-table/assets/57980966/b8e3586b-7794-45d9-b3c4-e0aa2ac0567f">
 
+Features Implemented:-
+1. Json data fetching from an API.
+2. Representing the data in Tabular Form
+3. Sorting the data concerning a particular column by clicking on the header of that column.
+4. Sorting in both ascending and descending order.
+5. Filteration of data by putting the query in the search bar.
+6. Pagination
+7. Option to choose the number of entries per page(dynamic page size)
+8. Option to toggle visibility of columns. if a particular column is not needed, unselect it from the dropdown menu.
+9. Range search based on price.
+10. Visually Appealing user interface made with the help of Bootstrap.
+11. Responsive UI which makes the page suitable for different screen sizes.
+12. Debounced the filtering feature to minimize intermediate bouncing of the UI.
+
