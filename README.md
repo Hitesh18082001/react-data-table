@@ -70,13 +70,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 Responsive data table
-<img width="1440" alt="Screenshot 2024-04-16 at 9 33 42 AM" src="https://github.com/Hitesh18082001/react-data-table/assets/57980966/1927df0a-cd9c-412d-876f-3d751dc05ffb">
+<img width="1440" alt="Screenshot 2024-04-16 at 12 10 14 PM" src="https://github.com/Hitesh18082001/react-data-table/assets/57980966/ac1f2763-034f-4077-bb54-2b1485d634c1">
 
-<img width="1440" alt="Screenshot 2024-04-16 at 9 34 23 AM" src="https://github.com/Hitesh18082001/react-data-table/assets/57980966/660dc168-e3f7-4072-ad91-a98862650a7c">
-
-
-
-<img width="1440" alt="Screenshot 2024-04-16 at 9 34 32 AM" src="https://github.com/Hitesh18082001/react-data-table/assets/57980966/b8e3586b-7794-45d9-b3c4-e0aa2ac0567f">
+<img width="1440" alt="Screenshot 2024-04-16 at 12 10 34 PM" src="https://github.com/Hitesh18082001/react-data-table/assets/57980966/6e682783-eeba-4c83-8250-f3eb976dc45a">
+<img width="1440" alt="Screenshot 2024-04-16 at 12 10 45 PM" src="https://github.com/Hitesh18082001/react-data-table/assets/57980966/447b6396-6d83-4fb3-9524-16d2546953cb">
 
 Features Implemented:-
 1. Json data fetching from an API.
